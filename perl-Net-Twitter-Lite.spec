@@ -4,7 +4,6 @@
 
 %define		pdir	Net
 %define		pnam	Twitter-Lite
-%include	/usr/lib/rpm/macros.perl
 Summary:	Net::Twitter::Lite - A perl interface to the Twitter API
 #Summary(pl.UTF-8):
 Name:		perl-Net-Twitter-Lite
